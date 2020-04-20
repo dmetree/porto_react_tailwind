@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tailwind-react/static/css/main.096afcfd.chunk.css",
-    "main.js": "/tailwind-react/static/js/main.1aa6c071.chunk.js",
-    "main.js.map": "/tailwind-react/static/js/main.1aa6c071.chunk.js.map",
-    "runtime-main.js": "/tailwind-react/static/js/runtime-main.8c9cf70d.js",
-    "runtime-main.js.map": "/tailwind-react/static/js/runtime-main.8c9cf70d.js.map",
-    "static/js/2.dd1275c1.chunk.js": "/tailwind-react/static/js/2.dd1275c1.chunk.js",
-    "static/js/2.dd1275c1.chunk.js.map": "/tailwind-react/static/js/2.dd1275c1.chunk.js.map",
-    "index.html": "/tailwind-react/index.html",
-    "precache-manifest.bde01ed5f5c2b9f365d9312dd6360001.js": "/tailwind-react/precache-manifest.bde01ed5f5c2b9f365d9312dd6360001.js",
-    "service-worker.js": "/tailwind-react/service-worker.js",
-    "static/css/main.096afcfd.chunk.css.map": "/tailwind-react/static/css/main.096afcfd.chunk.css.map",
-    "static/js/2.dd1275c1.chunk.js.LICENSE.txt": "/tailwind-react/static/js/2.dd1275c1.chunk.js.LICENSE.txt"
+    "main.css": "/porto_react_tailwind/static/css/main.096afcfd.chunk.css",
+    "main.js": "/porto_react_tailwind/static/js/main.1aa6c071.chunk.js",
+    "main.js.map": "/porto_react_tailwind/static/js/main.1aa6c071.chunk.js.map",
+    "runtime-main.js": "/porto_react_tailwind/static/js/runtime-main.942368dc.js",
+    "runtime-main.js.map": "/porto_react_tailwind/static/js/runtime-main.942368dc.js.map",
+    "static/js/2.dd1275c1.chunk.js": "/porto_react_tailwind/static/js/2.dd1275c1.chunk.js",
+    "static/js/2.dd1275c1.chunk.js.map": "/porto_react_tailwind/static/js/2.dd1275c1.chunk.js.map",
+    "index.html": "/porto_react_tailwind/index.html",
+    "precache-manifest.cef086b2d97f29fbce8ea7c140ad25fd.js": "/porto_react_tailwind/precache-manifest.cef086b2d97f29fbce8ea7c140ad25fd.js",
+    "service-worker.js": "/porto_react_tailwind/service-worker.js",
+    "static/css/main.096afcfd.chunk.css.map": "/porto_react_tailwind/static/css/main.096afcfd.chunk.css.map",
+    "static/js/2.dd1275c1.chunk.js.LICENSE.txt": "/porto_react_tailwind/static/js/2.dd1275c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c9cf70d.js",
+    "static/js/runtime-main.942368dc.js",
     "static/js/2.dd1275c1.chunk.js",
     "static/css/main.096afcfd.chunk.css",
     "static/js/main.1aa6c071.chunk.js"
